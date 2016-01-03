@@ -1,5 +1,5 @@
 var numCount = 1
-while (numCount < 100) {
+while (numCount <= 100) {
 	if (numCount % 15 == 0) {
 		console.log('FizzBuzz');
 	}
