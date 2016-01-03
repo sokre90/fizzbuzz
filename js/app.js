@@ -1,7 +1,7 @@
 var numCount = 1
 while (numCount < 100) {
 	if (numCount % 15 == 0) {
-		console.log('Fizz Buzz');
+		console.log('FizzBuzz');
 	}
 	else if (numCount % 3 == 0) {
 		console.log('Fizz');
